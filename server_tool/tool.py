@@ -5,8 +5,8 @@ import timeit
 from collections import Counter, OrderedDict
 import pickle
 import random
-import bidict
 import json
+import string
 
 out_temp = [None] * 1024
 fileno = [None] * 1024
@@ -150,7 +150,7 @@ def expression_to_string_ref(expression, params_ref):
             final += it[1:-1]
     return final
 
-def main():
+def language_tool():
     ind = 0
     ress = []
     string_map = OrderedDict({})
@@ -197,5 +197,44 @@ def main():
     #f.write(json_map)
     #f.close()
 
+def generate_random_string(length):
+    """生成一个指定长度的随机大写字母字符串"""
+    letters = string.ascii_uppercase  # 获取所有大写字母
+    result = ''.join(random.choice(letters) for _ in range(length))  # 随机选择字母并组合成字符串
+    return result
+
+def invitation_code_produce():
+    invitation_code_file = "/server/api/invitation_code.json"
+    if not os.path.exists(invitation_code_file):
+        f1 = open(invitation_code_file, 'w')
+        f1.write("{}")
+        f1.close()
+    f2 = open(invitation_code_file, 'r')
+    content = f2.read()
+    f2.close()
+    invitation_code_map = json.loads(content)
+
+    num_invitation_code = 10
+    len_invitation_code = 8
+    for i in range(num_invitation_code):
+        while True:
+            code = generate_random_string(len_invitation_code)
+            if not code in invitation_code_map:
+                invitation_code_map[code] = 1
+                break
+
+    f3 = open(invitation_code_file, 'w')
+    invitation_code_string = json.dumps(invitation_code_map, indent = 2, separators = (',', ':'), ensure_ascii=False)
+    f3.write(invitation_code_string)
+    f3.close()
+
+def invitation_code_list():
+    pass
+
 if __name__ == "__main__":
-    main()
+    option = sys.argv[1]
+    #language_tool()
+    if option == 'produce':
+        invitation_code_produce()
+    elif option == 'list':
+        invitation_code_list()
