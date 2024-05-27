@@ -1,0 +1,296 @@
+Stealth
+Spell damage +1.
+<b>Cast (2):</b> Roll a D6, on 4+ return target to hand.
+Spell Immunity
+<b>Death:</b> Summon an egg.
+<b>Play:</b> Damage all by 2.
+<b>Cast (2):</b> Return a spell to your hand.
+Fury
+<b>Play:</b> Deal 1 damage.
+After playing a spell, gain +2 attack.
+<b>Cast (3):</b> Deal 2 damage.
+<b>Death:</b> Summon an egg.
+<b>Each turn:</b> Kill characters with the lowest attack.
+Fury
+Each turn, gain +1 attack.
+Taunt
+<b>Play:</b> Gain Taunt or Fury
+Spell Immunity
+<b>Play:</b> Roll a D6 to know your attack.
+Trample
+Silence target card.
+<b>Play:</b> Return a character to your hand.
+<b>End Turn:</b> Go in stealth if you have other characters.
+<b>Attack:</b> Poison.
+Regeneration
+<b>Play:</b> Give +2/2.
+<b>Action:</b> Charge.
+<b>Play</b>: Summon a baby wolf.
+All Wolves +1 attack.
+Stealth
+Flying
+Haste
+
+When attacking a player, gain 2 mana.
+Spell Immunity
+<b>Play:</b> Target character's attack is reduced to 1.
+<b>Death:</b> Draw a card.
+<b>Play:</b> Destroy a character with 4 or less attack.
+Haste
+When attacking, roll a D6. On 4+ gain +6 attack.
+Deathtouch
+Has +3 attack during the opponent's turn.
+Enemy characters have -1 attack.
+<b>Action:</b> +1 attack to allies.
+Flying
+Whenever another character dies, draw 1 card.
+Taunt
+Shell
+Target gains 1 attack and fury.
+Summon 3 eagles into your hand.
+Destroy all creatures on the board
+Destroy target.
+Target creature gains "Suffer 3 damage before attacking".
+Deal 1 damage.
+Draw a card.
+Target gains 2 HP and Taunt.
+Target card gains "When an allied character enters play, destroy this".
+All allied characters gain +2/2
+Target gains +4/4 and goes to sleep for the next 2 turns.
+Paralyse target for 3 turns.
+Destroy the character with the lowest HP.
+Gain 1 mana.
+Discover a Dragon.
+Target gains shell and fully heals.
+Reduce the hp of all characters to 1.
+All cards return to their owner's hand.
+Target card gains "When attacked, opponent must discard 1 random card".
+Look at the next 7 cards in your deck, and choose two.
+Return target to owner's hand.
+Roar
+All allied creatures gain +1 attack until the end of the turn. Uses this creature's action.
+Burst
+Take 1 damage to gain +1 attack.
+Fire
+Deal 2 damage. Cost 3 mana.
+Discard
+Opponent discard a random card from their hand. Uses this creature's action.
+Fire
+Deal 1 damage.
+Forest
+Heal 2 HP.
+Magic Focus
+Return a spell from your graveyard to your hand. Cost 2 mana.
+Charge
+Return a character to its owner's hand. Uses this creature's action.
+Water
+Draw a card.
+
+
+Charge
+Select a character and roll a D6, on 4+ return it to its owner's hand. Cost 2 mana.
+Tentacles
+Before attacking, roll a D6, on 4+ gain +6 attack until the end of the turn.
+Random Attack.
+Roll a D6, increase this card's attack by the result.
+
+
+
+
+
+
+
+
+Armor
+Bearer has +2 armor.
+Attack
+Bearer has +1 attack.
+Attack
+Bearer has +2 attack.
+Intimidate
+When attacking, target does not counter-attack.
+Sword
+Loses 1 durability after each attack.
+Shield
+Loses 1 durability when attacked.
+Mana Ring
+Gain 2 extra mana per turn for the next 3 turns.
+Mana Ring
+When the bearer kills a card, gain 3 mana.
+Taunt
+Bearer has taunt.
+Spell Damage
+All your spells and abilities deal +1 damage.
+Red Burst
+All allied red creatures gain: "Take 1 damage to gain +1 attack".
+Fear
+All enemy characters have -1 attack.
+Wolf Aura
+All other allied wolves gain +1 attack.
+Deathtouch
+Kill any creature it damages.
+Defense
+Has +3 attack during the opponent's turn.
+Flying
+Can ignore Taunt.
+Fury
+Can attack twice per turn.
+Life Steal
+Heal yourself when dealing damage.
+Spell Immunity
+Cannot be targeted or damaged by spells and traps.
+Taunt
+Your other characters cannot be attacked.
+Blue Aura
+All Blue cards cost 1 less.
+Green Aura
+All Green characters gain +2 hp.
+Red Aura
+All Red creatures gain +2 attack.
+Trample
+Excess damage is dealt to player hp.
+Heat
+After playing a spell, gain +2 attack.
+Pillage
+After attacking the opponent's life, gain 2 mana.
+Poison
+Attacked characters gain poison. They lose 1 hp each turn.
+Ground Split
+Before attacking, suffer 3 damage.
+
+
+Draw
+When a blue creature you own dies, draw a card.
+Draw
+When this creature dies, draw a card.
+Summon Egg
+When this creatures dies, summon a phoenix egg.
+Heal
+When this creatures dies, you restore 2 HP.
+Eat
+Whenever another character dies, draw a card.
+Submerged
+When attacked, opponent must discard 1 random card.
+
+
+Egg
+After 3 turns, transforms into a Phoenix.
+Transform Pheonix
+After 3 turns, transforms into a Pheonix.
+Draw
+When you kill another character with this creature, draw 2 cards.
+Extinction
+When an allied creature enter play, destroy this card.
+Regeneration
+At the start of your turn, heal 3 hp.
+Regeneration
+At the start of your turn, this creature fully heal.
+Furious
+At the start of each turn, gain +1 attack.
+Green Heal
+At the start of each turn, all allied green creatures and locations heal by 3.
+Reaper
+At the start of your turn, kill characters in play with the lowest attack (including yours).
+Stealth
+At the end of your turn, if you have at least one other character in play, go in stealth.
+Fury
+Can attack twice per turn.
+Taunt
+Your other characters cannot be attacked.
+Bless
+On play, give +2/2 to another creature until your next turn.
+Choice
+Gain Taunt or Fury
+Fire Damage
+On play, deal 1 damage to any target.
+Fire Damage
+On play, deal 2 damage to all other cards.
+Killer
+On play, destroy a character with 4 or less attack. If you do, draw a card.
+Discard
+Opponent discards a random card from their hand.
+Haste
+Can attack immediately.
+Poison
+Target character gains poison. They lose 1 hp each turn.
+Dig
+On play, return a character from your graveyard to your hand.
+Electrify
+On play, selected target's attack is reduced to 1.
+Silence
+Target abilities are canceled.
+Summon Wolf
+On play, summon a 1/1 baby wolf on an adjacent empty slot.
+Shell
+On the first hit, takes no damage.
+Stealth
+Cannot be targeted or attacked until it performs an action.
+
+
+
+
+
+
+Treasure
+Look at the next 7 cards in your deck, and take 2 into your hand.
+Ground Split
+Target creature gains "Suffer 3 damage before attacking".
+Extinct
+Target card gains "When an allied creature enter play, destroy this card".
+Submerge
+Target card gains "When attacked, opponent must discard 1 random card".
+Growth
+All allied characters gain +2/2
+
+
+Armor +2
+Target gains armor 2. Reducing all damage by 2.
+Attack +1
+Target gains 1 attack.
+Coin
+Gain 1 mana this turn.
+Hot
+Deal 1 damage.
+Fire
+Deal 3 damage.
+Destroy
+Destroy target character or location.
+Armageddon
+Destroy all creatures on the board
+Discover Dragon
+Select a dragon to summon into your hand.
+Draw
+Draw 1 card.
+Fury
+Target character gains Fury. It can attack twice per turn.
+Heal
+Target card is fully healed.
+Hibernate
+Target character gains +4/4 and goes to sleep for the next 2 turns.
+Hp +2
+Target gains 2 hp.
+Stomp
+Kill the character in play with the lowest hp (including yours).
+Paralyse
+Paralyse target character for 3 turns.
+Sea Storm
+All cards on the board return to their owner's hand.
+Return Hand
+Return target to its owner's hand.
+Flood
+The hp of all characters on the board is lowered to 1.
+Shell
+Target gains shell, it ignores damage on the next hit.
+Aerial Strike
+Summon three 1/1 eagles with flying and haste into your hand.
+Taunt
+Target character gains Taunt. Your other characters cannot be attacked.
+Treasure
+Look at the next 7 cards in your deck, and take 2 into your hand.
+Fire Damage
+When an enemy creature attacks, damage all enemy creatures by 2.
+Paralysis
+After an enemy creature attacks, paralyse it for 3 turns.
+Transform to Fish
+When the next enemy creature is played, transform it into a 1/1 fish.
+
