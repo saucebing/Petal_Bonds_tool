@@ -41,7 +41,8 @@ def chat(text):
         print(completion.choices[0].message.content)
 
 if __name__ == "__main__":
-    #f = open('qa_prompt.txt', 'r')
-    #text = f.read()
-    #f.close()
-    chat("你好")
+    f = open('qa_prompt.txt', 'r')
+    text = f.read()
+    f.close()
+    #chat("你好")
+    chat(text)
