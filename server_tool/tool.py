@@ -204,7 +204,7 @@ def generate_random_string(length):
     return result
 
 def invitation_code_produce():
-    invitation_code_file = "/server/api/invitation_code.json"
+    invitation_code_file = "/server/Petal_Bonds_api/invitation_code.json"
     if not os.path.exists(invitation_code_file):
         f1 = open(invitation_code_file, 'w')
         f1.write("{}")
